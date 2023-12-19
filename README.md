@@ -1,3 +1,1 @@
-- 👋 Cowabanga, I’m Kirill and I'm US Army Pharmacy Tech, but...
-- 🌱 I’m currently learning Python, SQL, HTML, CSS , JavaScript
-- 📫 My IG: kirbayer
+
