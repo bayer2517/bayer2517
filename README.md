@@ -13,7 +13,7 @@ Cybersecurity enthusiast. I started my jurney with....
 
 - :zap: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rikbai) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kbairamov2517@gmail.com)
+- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-KIRILLBAIRAMOV-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rikbai) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kbairamov2517@gmail.com)
 
 ---
 
