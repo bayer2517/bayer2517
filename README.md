@@ -1,7 +1,6 @@
-<h3 align="center">Cybersecurity expert and proficient Python developer from the USA</h3>
-# Hello! My name is Kirill' or 1=1-- -
+<h3 align="center">Hello! My name is Kirill' or 1=1# Cybersecurity expert and proficient Python developer from the USA</h3>
 
-### I 🫀 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+## I mount my soul at /dev/null <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; 
 
 ---
 
