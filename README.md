@@ -1,11 +1,11 @@
-# Hello! My name is Kirill!
-### God Bless <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+<h3 align="center">Cybersecurity expert and proficient Python developer from the USA</h3>
+# Hello! My name is Kirill' or 1=1-- -
+
+### I 🫀 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 
 ---
 
 ### :man_technologist: About me:
-
-<h3 align="center">As an enthusiastic cybersecurity expert and proficient Python developer from the USA</h3>
 
 - :seedling: I’m currently learning about the Offensive Security Certified Professional (OSCP) certification.
 
