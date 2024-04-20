@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Hello! My name is Kirill' or 1=1# Cybersecurity expert and proficient Python developer from the USA</h3>
+<h3 align="center">Hello! My name is Kirill' or 1=1# Cybersecurity expert from the USA</h3>
 
 ---
 
