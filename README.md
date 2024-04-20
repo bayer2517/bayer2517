@@ -8,7 +8,7 @@
 
 ### :man_technologist: About me:
 
-- :seedling: I’m currently learning about the Offensive Security Certified Professional (OSCP) certification.
+- :seedling: I’m currently preparing for Offensive Security Certified Professional (OSCP) certification.
 
 
 - :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-KIRILLBAIRAMOV-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rikbai) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kbairamov2517@gmail.com)
